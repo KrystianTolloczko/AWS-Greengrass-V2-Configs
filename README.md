@@ -4,9 +4,6 @@ AWSGreengrassV2 Working Config Example
 
 # **COMPONENTS**
 
-# If you run into any issues with the deployments, try to restore previous successful deployment or remove faulty components. Standard components are good to start debugging!
-<br>
-
 **Access Keys and GGC_USER / FOR TESTING PURPOSE ONLY!!!**
 ```
 //Linux
