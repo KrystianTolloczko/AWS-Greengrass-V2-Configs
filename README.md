@@ -1,6 +1,4 @@
-# AWSGreengrassV2Configs
-AWSGreengrassV2 Working Config Example
-
+# AWSGreengrassV2 Working Config Example
 
 # **COMPONENTS**
 
